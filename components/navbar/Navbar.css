@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    min-height: 100%;
+}
+
+nav{
+    z-index: 1000;
+    min-height: 100%;
+}
